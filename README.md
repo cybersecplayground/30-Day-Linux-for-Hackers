@@ -58,6 +58,13 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 - Ask questions and share ideas in the community
 
 ---
+## 🧭 Table of Contents
+
+| day | Topic |
+|-----|-------|
+| 1   | [Introduction & Why Linux Matters](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-1-Intro.md) |
+
+--- 
 
 ## 📣 Follow Us for More
 
