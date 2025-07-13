@@ -63,7 +63,7 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | day | Topic |
 |-----|-------|
 | 1   | [Introduction & Why Linux Matters](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-1-Intro.md) |
-
+| 2   | [Basic File Navigation Commands](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-2%20-%20Basic%20File%20Navigation%20in%20Linux.md) |
 --- 
 
 ## 📣 Follow Us for More
