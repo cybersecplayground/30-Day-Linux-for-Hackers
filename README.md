@@ -67,7 +67,9 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | 3   | [Understanding Linux File Permissions](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-3%20%E2%80%93%20Understanding%20Linux%20File%20Permissions.md) |
 | 4   | [Users, Groups, and Privilege Escalation Basics](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-4%20%E2%80%93%20Users%2C%20Groups%2C%20and%20Privilege%20Escalation%20Basics.md) |
 | 5   | [Linux Package Managers & Dependency Abuse](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-5%20-%20Linux%20Package%20Managers%20%26%20Dependency%20Abuse.md) |
+| 6   | [Introduction to Bash Scripting ](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-6%20%E2%80%93%20Introduction%20to%20Bash%20Scripting.md)|
 --- 
+
 
 ## 📣 Follow Us for More
 
