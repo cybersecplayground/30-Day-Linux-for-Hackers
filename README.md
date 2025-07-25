@@ -24,7 +24,7 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | Day | Topic |
 |-----|-------|
 | 1   | Introduction & Why Linux Matters |
-| 2   | Basic File Navigation Commands |
+| 2   | Basic File Navigation in Linux |
 | 3   | File Permissions Deep Dive |
 | 4   | Users, Groups & Privilege Escalation Basics |
 | 5   | Package Management (APT, YUM, Pacman) |
@@ -68,6 +68,7 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | 4   | [Users, Groups, and Privilege Escalation Basics](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-4%20%E2%80%93%20Users%2C%20Groups%2C%20and%20Privilege%20Escalation%20Basics.md) |
 | 5   | [Linux Package Managers & Dependency Abuse](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-5%20-%20Linux%20Package%20Managers%20%26%20Dependency%20Abuse.md) |
 | 6   | [Introduction to Bash Scripting ](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-6%20%E2%80%93%20Introduction%20to%20Bash%20Scripting.md)|
+| 7 | [Bash Variables, Arguments & Dynamic Scripting](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-7%20%E2%80%93%20Bash%20Variables%2C%20Arguments%20%26%20Dynamic%20Scripting.md) |
 --- 
 
 
