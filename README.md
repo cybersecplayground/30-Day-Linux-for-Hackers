@@ -30,7 +30,7 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | 5   | Package Management (APT, YUM, Pacman) |
 | 6   | Bash Scripting Introduction |
 | 7   | Environment Variables & Aliases |
-| 8   | Network Recon with CLI |
+| 8   | Environment Variables & .bashrc Abuse |
 | 9   | Services, Processes, and Systemctl |
 | 10  | Crontabs & Scheduled Exploits |
 | ... | (continues daily to Day 30) |
@@ -69,6 +69,7 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | 5   | [Linux Package Managers & Dependency Abuse](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-5%20-%20Linux%20Package%20Managers%20%26%20Dependency%20Abuse.md) |
 | 6   | [Introduction to Bash Scripting ](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-6%20%E2%80%93%20Introduction%20to%20Bash%20Scripting.md)|
 | 7 | [Bash Variables, Arguments & Dynamic Scripting](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-7%20%E2%80%93%20Bash%20Variables%2C%20Arguments%20%26%20Dynamic%20Scripting.md) |
+| 8 | [Environment Variables & .bashrc Abuse](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-8%20%E2%80%93%20Environment%20Variables%20%26%20.bashrc%20Abuse.md) |
 --- 
 
 
