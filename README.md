@@ -62,15 +62,16 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 
 | day | Topic |
 |-----|-------|
-| 1   | [Introduction & Why Linux Matters](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-1-Intro.md) |
-| 2   | [Basic File Navigation Commands](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-2%20-%20Basic%20File%20Navigation%20in%20Linux.md) |
-| 3   | [Understanding Linux File Permissions](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-3%20%E2%80%93%20Understanding%20Linux%20File%20Permissions.md) |
-| 4   | [Users, Groups, and Privilege Escalation Basics](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-4%20%E2%80%93%20Users%2C%20Groups%2C%20and%20Privilege%20Escalation%20Basics.md) |
-| 5   | [Linux Package Managers & Dependency Abuse](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-5%20-%20Linux%20Package%20Managers%20%26%20Dependency%20Abuse.md) |
-| 6   | [Introduction to Bash Scripting ](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-6%20%E2%80%93%20Introduction%20to%20Bash%20Scripting.md)|
-| 7 | [Bash Variables, Arguments & Dynamic Scripting](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-7%20%E2%80%93%20Bash%20Variables%2C%20Arguments%20%26%20Dynamic%20Scripting.md) |
-| 8 | [Environment Variables & .bashrc Abuse](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-8%20%E2%80%93%20Environment%20Variables%20%26%20.bashrc%20Abuse.md) |
-| 9 | [Processes, Services & Enumeration](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/day-9%20%E2%80%93%20Processes%2C%20Services%20%26%20Enumeration.md) |
+| 1   | [Introduction & Why Linux Matters in Hacking](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/01-Intro.md) |
+| 2   | [Basic File Navigation in Linux](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/02-Basic%20File%20Navigation%20in%20Linux.md) |
+| 3   | [Understanding Linux File Permissions ](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/03-Understanding%20Linux%20File%20Permissions.md)|
+| 4   | [Users, Groups, and Privilege Escalation Basics](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/04-Users%2C%20Groups%2C%20and%20Privilege%20Escalation%20Basics.md) |
+| 5   | [Linux Package Managers & Dependency Abuse](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/05-Linux%20Package%20Managers%20%26%20Dependency%20Abuse.md) |
+| 6   | [Introduction to Bash Scripting](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/06-Introduction%20to%20Bash%20Scripting.md) |
+| 7 | [Bash Variables, Arguments & Dynamic Scripting](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/07-Bash%20Variables%2C%20Arguments%20%26%20Dynamic%20Scripting.md) |
+| 8 | [Environment Variables & .bashrc Abuse](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/08-Environment%20Variables%20%26%20.bashrc%20Abuse.md) |
+| 9 | [Processes, Services & Enumeration](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/09-Processes%2C%20Services%20%26%20Enumeration.md) |
+| 10 | [Cron Jobs: Scheduled Tasks & Exploitation](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/10-Cron%20Jobs%3A%20Scheduled%20Tasks%20%26%20Exploitation.md) |
 --- 
 
 
