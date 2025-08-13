@@ -18,46 +18,6 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 - Developers who want to master Linux internals
 
 ---
-
-## 🧭 Course Timeline
-
-| Day | Topic |
-|-----|-------|
-| 1   | Introduction & Why Linux Matters |
-| 2   | Basic File Navigation in Linux |
-| 3   | File Permissions Deep Dive |
-| 4   | Users, Groups & Privilege Escalation Basics |
-| 5   | Package Management (APT, YUM, Pacman) |
-| 6   | Bash Scripting Introduction |
-| 7   | Environment Variables & Aliases |
-| 8   | Environment Variables & .bashrc Abuse |
-| 9   | Services, Processes, and Systemctl |
-| 10  | Crontabs & Scheduled Exploits |
-| ... | (continues daily to Day 30) |
-
-> 🧠 Each day includes commands, a task, and explanations.
-
----
-
-## 🛠 Skills You’ll Build
-
-- Linux terminal fluency  
-- Bash scripting for automation  
-- Network scanning & service enumeration  
-- Privilege escalation techniques  
-- System internals & attack surface understanding  
-- Red teaming utilities and stealth
-
----
-
-## 📂 How to Use This Repo
-
-- Clone this repo or browse daily folders
-- Complete the task for each day
-- Take notes, experiment, and modify examples
-- Ask questions and share ideas in the community
-
----
 ## 🧭 Table of Contents
 
 | day | Topic |
@@ -78,6 +38,26 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | 14 | [Logs & System Auditing](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/14_Logs_and_Auditing.md) |
 
 --- 
+
+## 🛠 Skills You’ll Build
+
+- Linux terminal fluency  
+- Bash scripting for automation  
+- Network scanning & service enumeration  
+- Privilege escalation techniques  
+- System internals & attack surface understanding  
+- Red teaming utilities and stealth
+
+---
+
+## 📂 How to Use This Repo
+
+- Clone this repo or browse daily folders
+- Complete the task for each day
+- Take notes, experiment, and modify examples
+- Ask questions and share ideas in the community
+
+
 
 
 ## 📣 Follow Us for More
