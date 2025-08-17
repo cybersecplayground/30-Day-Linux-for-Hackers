@@ -36,6 +36,7 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | 12 | [File Permissions & Privilege Escalation Basics](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/12-File-Permissions%26Privilege-Escalation-Basics.md) |
 | 13 | [Environment Variables & PATH Hijacking](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/13_Environment_Variables_and_PATH_Hijacking.md) |
 | 14 | [Logs & System Auditing](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/14_Logs_and_Auditing.md) |
+| 15 | [Networking Fundamentals for Hackers](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/15_Networking_Fundamentals.md) | 
 
 --- 
 
