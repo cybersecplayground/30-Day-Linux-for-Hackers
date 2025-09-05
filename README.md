@@ -40,7 +40,7 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | 16 | [Firewalls & Packet Filtering (iptables & ufw)](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/16_Firewalls_and_Packet_Filtering.md) | 
 | 17 | [Secure Shell (SSH) & Tunneling Tricks](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/17_SSH_and_Tunneling.md) |
 | 18 | [Linux Kernel & Exploit Basics](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/18_Kernel_Exploits.md) |
-| 19 | [Linux Persistence Techniques](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/tree/main) | 
+| 19 | [Linux Persistence Techniques](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/19_Linux_Persistence.md) | 
 
 --- 
 
