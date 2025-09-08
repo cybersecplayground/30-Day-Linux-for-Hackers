@@ -41,6 +41,7 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | 17 | [Secure Shell (SSH) & Tunneling Tricks](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/17_SSH_and_Tunneling.md) |
 | 18 | [Linux Kernel & Exploit Basics](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/18_Kernel_Exploits.md) |
 | 19 | [Linux Persistence Techniques](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/19_Linux_Persistence.md) | 
+| 20 | [Linux Services & Daemon Exploitation](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/20_Services_and_Daemon_Exploitation.md) |
 
 --- 
 
