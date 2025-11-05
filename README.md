@@ -47,6 +47,7 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | 23 | [Containers & Docker Exploitation](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/23_Containers_and_Docker_Exploitation.md) |
 | 24 | [Host-based Monitoring: auditd & osquery](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/24_Host_Monitoring_Auditd_Osquery.md) |
 | 25 | [Linux Forensics & Incident Response Basics](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/25_Linux_Forensics_and_IR.md) |
+| 26 | [Automating Linux Privilege Escalation Checks](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/26_Linux_Privilege_Escalation_Automation.md) |
 
 --- 
 
