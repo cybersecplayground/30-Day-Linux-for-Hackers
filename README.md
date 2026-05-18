@@ -51,6 +51,7 @@ Welcome to the **30-Day Linux for Hackers** course — a hands-on guide designed
 | 27 | [Linux Hardening & Auditd , Monitoring , Output Redirection, Logging for Hackers](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/27_Linux_Hardening_and_Monitoring.md) | 
 | 28 | [Linux Network Sniffing & Packet Capture for Hackers](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/28_Network_Sniffing_and_Packet_Capture.md) | 
 | 29 | [Linux Memory Analysis & Credential Hunting (ProcFS & Live Processes)](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/29_Linux_Memory_Analysis_and_Credential_Hunting.md) | 
+| 30 | [Building Your Linux Hacking Workflow (Final Day)](https://github.com/cybersecplayground/30-Day-Linux-for-Hackers/blob/main/30_Building_Your_Linux_Hacking_Workflow.md) |
 
 --- 
 
